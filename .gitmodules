@@ -1,0 +1,15 @@
+[submodule "bloom-and-wild"]
+	path = bloom-and-wild
+	url = https://github.com/Voxoff/test-exercise-gbj
+[submodule "cleo-2019"]
+	path = cleo-2019
+	url = https://github.com/Voxoff/cleo-2019
+[submodule "cleo"]
+	path = cleo
+	url = https://github.com/Voxoff/cleo
+[submodule "zeneducate"]
+	path = zeneducate
+	url = https://github.com/Voxoff/zeneducate
+[submodule "smart_pension"]
+	path = smart_pension
+	url = https://github.com/Voxoff/smart_pension
