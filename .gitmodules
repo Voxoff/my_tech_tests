@@ -13,3 +13,6 @@
 [submodule "smart_pension"]
 	path = smart_pension
 	url = https://github.com/Voxoff/smart_pension
+[submodule "student-bean"]
+	path = student-bean
+	url = https://github.com/Voxoff/backend-code-test
